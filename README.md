@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Tailwind CSS**
 
-- 💬 Ask me about **Web, Database, UI**
+- 💬 Ask me about **Web, Algorithm, UI**
 
 - 📫 How to reach me **rifqiarasyy@gmail.com**
 
